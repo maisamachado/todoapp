@@ -8,7 +8,7 @@ import model.Task;
 
 /**
  *
- * @author Marcio Michelluzzi
+ * @author Maisa
  */
 public class TaskTableModel extends AbstractTableModel {
 
