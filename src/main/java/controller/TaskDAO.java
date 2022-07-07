@@ -11,7 +11,7 @@ import util.ConnectionFactory;
 
 /**
  *
- * @author Marcio Michelluzzi
+ * @author Maisa
  */
 public class TaskDAO {
 
