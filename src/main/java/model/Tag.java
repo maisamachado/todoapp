@@ -5,7 +5,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Marcio Michelluzzi
+ * @author Maisa
  */
 public class Tag {
     
